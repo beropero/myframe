@@ -1,4 +1,4 @@
-module myframe
+module github.com/beropero/myframe
 
 go 1.22.1
 
